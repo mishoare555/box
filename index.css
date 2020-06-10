@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    align-items: center;
+
+}
+
+.ty{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #000000;
+    border-bottom: 0;
+    background-color: red;
+}
+
+.boy{
+    font-weight: bold;
+}
+.boy{
+    width: 30%;
+    display: flex;
+    margin-left: 5px;
+    margin: 5px;
+    
+}
+
+.boy li {
+    color: black;
+    margin: 10px;
+    margin-left: 5px;
+}  
+
+.nupo{
+    font-weight: bold;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    color:#000000;
+    transition: background-.7s;
+    background-color: #019e1b;
+    border-color: #019e1b;
+    font-family: 'Quicksand', sans-serif;   
+}
+
+
+
+.re{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #000000;
+    border-bottom: 0;
+    border-color: white;
+}
+
+.do{
+    font-weight: bold;
+    justify-content: space-evenly;
+}
+.do{
+    width: 30%;
+    display: flex;
+    margin-left: 5px;
+    margin: 5px;
+    
+}
+
+.do {
+    color: black;
+    margin: 10px;
+    margin-left: 5px;
+}  
+
+
+
+.qwer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grt{
+    padding-right: 5px;
+}
+
+.nav-list{
+    font-weight: bold;
+}
+.nav-list{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.bigbox{
+    color: black;
+    display: flex;
+    justify-content: space;
+    margin-left: 600px;
+}
+
+.nav-listt{
+    color: black;
+    display: flex;
+    justify-content: space;
+    width: 50%;
+}
+
+.nav-list{
+    display: flex;
+    font-weight: bold;
+    
+}
+.toybox{
+    margin-left: 10px;
+}
+
+.box{
+    margin-left: 10%;
+
+}
+
+
+.boxfortoy{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about-us .symptoms-content ul li span {
+    display: block;
+    background-color: #ffffff;
+    position: relative;
+    padding: 15px 15px 15px 55px;
+    color: #263077;
+    transition: 0.5s;
+    border-radius: 0;
+    text-transform: uppercase;
+    z-index: 1;
+    font-size: 17px;
+    font-weight: 800;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.roblox{
+   padding-left: 35%;
+}
+
+.robuc{
+    padding-left: 30%;
+}
+
+.navbar-navbar-expand-lg-navbar-light-bg-light{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boxx{
+    padding-right: 50px;
+}
+
+.musicman{
+    border-bottom: black;
+}
+
+
+.nigga{
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+
+
+.classwar{
+   margin-left: 30%;
+   margin-top: 5%;
+}
+
+.classbox{
+    margin-top: 30%;
+}
+
+
+
+.notorious{
+    display: flex;
+    padding-left: 40%;
+}
+
+.big{
+   padding-left: 30%;
+}
+
+.pac{
+   padding-left: 30%;
+}
+
+.hip-hop{
+    margin: 20px;
+}
+    
+.nick{
+    padding-left: 10%;
+}
+
+.i{
+    padding-left: 70%;
+}
+
+.h{
+    padding-left: 65%;
+
+}
+.m{
+   display: flex;
+   
+}
+
+
+
+
+
+
